@@ -1,0 +1,4 @@
+https://github.com/naveenanimation20/MayPOMFramework.git
+C:\Users\enlem\workspace\MyPOMserious
+
+Git Premission Denied soulution:control panel > user accounts > credential manager > Windows credentials > Generic credentials
